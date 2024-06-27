@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9c5b85f-6b1e-4b51-8842-3cd8b372b32e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buyer/Product and consultant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buyer/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buyer/shopping/Payment/Basket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buyer/shopping/Payment/Payment_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buyer/shopping/shopping_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buyer/shopping/size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seller/Choice/Choice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seller/Choice/dictionary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seller/Choice/order_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seller/Choice/regist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seller/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Support_files/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Support_files/imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Support_files/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/app_Buyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/app_Product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/app_Seller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/entrance.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hcDQH8Brf5iWrpN9uYdpvbzU5o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Payment_selection.executor": "Run",
+    "Python.imports.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.order_window.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/admin/Desktop/dimlon_Dima_no/order_2.0",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c5b85f-6b1e-4b51-8842-3cd8b372b32e" name="Changes" comment="" />
+      <created>1717884454117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717884454117</updated>
+    </task>
+    <servers />
+  </component>
+</project>
