@@ -31,4 +31,3 @@ btn.pack(pady = 10)
 btn.bind("<Enter>",fun.cursor(btn=btn))
 
 
-root.mainloop()

@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9c5b85f-6b1e-4b51-8842-3cd8b372b32e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/order.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buyer/Product and consultant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buyer/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buyer/shopping/Payment/Basket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buyer/shopping/Payment/Payment_selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buyer/shopping/shopping_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buyer/shopping/size.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seller/Choice/Choice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seller/Choice/dictionary.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seller/Choice/order_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seller/Choice/regist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seller/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Support_files/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Support_files/imports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Support_files/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/app_Buyer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/app_Product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/app_Seller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/entrance.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +35,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/admin/Desktop/dimlon_Dima_no/order_2.0",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
